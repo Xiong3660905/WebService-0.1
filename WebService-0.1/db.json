@@ -1,0 +1,19 @@
+{
+  "bots": [
+    {
+      "id": "02b4daeb-bd07-4dc3-bf67-4ed7cce50d20",
+      "name": "eliza",
+      "status": 1
+    },
+    {
+      "id": "05fb5998-06ac-4a06-898f-ede3f51eaac4",
+      "name": "admin",
+      "status": 1
+    },
+    {
+      "id": "c7a317c2-e463-4752-96dd-2adaa64f6ab3",
+      "name": "yuhag1",
+      "status": 1
+    }
+  ]
+}
